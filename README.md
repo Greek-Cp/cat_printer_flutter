@@ -31,7 +31,7 @@ Add this to your package's `pubspec.yaml` file:
 dependencies:
   cat_printer_flutter:
     git:
-      url: https://github.com/yanuartrilaksono/Cat-Printer-Flutter.git
+      url: https://github.com/Greek-Cp/Cat-Printer-Flutter.git
       path: build-flutter/cat_printer_flutter
 ```
 
